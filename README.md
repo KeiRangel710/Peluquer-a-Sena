@@ -1,2 +1,2 @@
-# Peluquer-a-Sena
+# Peluquería-Sena
 Proyecto peluquería JavaScript
